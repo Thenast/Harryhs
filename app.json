@@ -1,0 +1,11 @@
+{
+	"name": "Junsrtty",
+	"website": "https://github.com/Thenast/Harryhs",
+	"repository": "https://github.com/Thenast/Harryhs",
+	"env": {
+  "AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
